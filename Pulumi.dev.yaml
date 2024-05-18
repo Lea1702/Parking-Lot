@@ -1,0 +1,5 @@
+config:
+  aws:region: il-central-1
+  my-parking-lot:containerPort: '80'
+  my-parking-lot:cpu: '512'
+  my-parking-lot:memory: '128'
